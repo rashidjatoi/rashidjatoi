@@ -5,7 +5,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on **Flutter** for mobile and desktop app development.
-- 🌟 I’m building solutions with **PostgreSQL**, **Mongoose**, **Node.js**, and **Firebase**.
+- 🌟 I’m building solutions with **PostgreSQL**, **MongoDB**, **Node.js**, and **Firebase**.
 - 🚀 I have experience with **CI/CD pipelines** to streamline development and deployment processes.
 - 🛠️ I’m proficient in:
   - Designing scalable mobile, web, and desktop applications.
