@@ -4,19 +4,25 @@
 <!-- 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on **Flutter** for mobile app development.
+- 🔭 I’m currently working on **Flutter** for mobile and desktop app development.
 - 🌟 I’m building solutions with **PostgreSQL**, **Mongoose**, **Node.js**, and **Firebase**.
-- 👯 I’m looking to collaborate on **Mobile Application** and **Backend Development** projects.
+- 🚀 I have experience with **CI/CD pipelines** to streamline development and deployment processes.
 - 🛠️ I’m proficient in:
-  - Designing scalable mobile and web applications.
+  - Designing scalable mobile, web, and desktop applications.
+  - Developing desktop software using **Flutter**, **JavaFX**, **Swing**, and **Tkinter**.
   - Creating RESTful APIs with Node.js and Express.
-  - Setting up secure authentication systems using Firebase or JWT.
-  - Building NoSQL and SQL database solutions using Mongoose and PostgreSQL.
-  - Integrating real-time features like chat or notifications using Firebase.
+  - Implementing secure authentication systems using Firebase or JWT.
+  - Building NoSQL and SQL database solutions with **Mongoose** and **PostgreSQL**.
+  - Configuring and managing cloud services on **AWS**.
+  - Setting up CI/CD pipelines using tools like GitHub Actions, Jenkins, or AWS CodePipeline.
+- 👯 I’m looking to collaborate on projects involving:
+  - **Mobile Application Development**.
+  - **Backend Development**.
+  - **Cloud Deployment** and **Infrastructure as Code**.
 - 💬 Ask me about:
   - Mobile App Development with Flutter.
-  - Backend Development with Node.js.
-  - Database Management with PostgreSQL and MongoDB.
+  - Desktop Software Development with JavaFX, Swing, or Tkinter.
+  - CI/CD pipelines for efficient project delivery.
+  - Cloud architecture and deployment on AWS.
 - 📫 How to reach me: **rashidjatoi31@gmail.com**
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love Movies 🎥
