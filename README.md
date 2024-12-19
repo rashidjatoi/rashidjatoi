@@ -14,7 +14,6 @@ Here are some ideas to get you started: -->
   - Implementing secure authentication systems using Firebase or JWT.
   - Building NoSQL and SQL database solutions with **Mongoose** and **PostgreSQL**.
   - Configuring and managing cloud services on **AWS**.
-  - Setting up CI/CD pipelines using tools like GitHub Actions, Jenkins, or AWS CodePipeline.
 - 👯 I’m looking to collaborate on projects involving:
   - **Mobile Application Development**.
   - **Backend Development**.
@@ -22,7 +21,6 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about:
   - Mobile App Development with Flutter.
   - Desktop Software Development with JavaFX, Swing, or Tkinter.
-  - CI/CD pipelines for efficient project delivery.
   - Cloud architecture and deployment on AWS.
 - 📫 How to reach me: **rashidjatoi31@gmail.com**
 - ⚡ Fun fact: I Love Movies 🎥
